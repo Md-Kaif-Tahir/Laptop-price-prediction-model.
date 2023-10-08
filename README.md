@@ -42,7 +42,7 @@ Explain the source of your data and any preprocessing steps involved.
 - Data preprocessing
 - Exploratory data analysis
 - Feature engineering
-- Regression
+- Modelling
   
 
 ## Tech Stack
@@ -117,7 +117,7 @@ Provide instructions on how to run your project locally.
 
 ## Explore the Notebook
 
-Link to the Jupyter notebook or relevant code files for further exploration.
+https://www.kaggle.com/datasets/muhammadusman996/ozlaptop
 
 ## App Deployed on Streamlit
 
@@ -125,5 +125,4 @@ Link to the Jupyter notebook or relevant code files for further exploration.
 
 ## Blog Post
 
-Link to any blog post or article related to the project.
-
+- Currenly working on the blog
