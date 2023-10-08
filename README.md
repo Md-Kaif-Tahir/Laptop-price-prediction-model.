@@ -52,7 +52,7 @@ Explain the source of your data and any preprocessing steps involved.
 
 ## Quick Glance at the Result
 
-Provide a brief summary or visualization of the project's results.
+a brief summary of the project's results.
 
 ### 1. Distribution of the price  
 ![image](https://github.com/Md-Kaif-Tahir/Laptop-price-prediction-model./assets/110182266/ad30139f-3128-47ea-b2d8-29cc7eda8387)
@@ -98,8 +98,6 @@ Observation
 - The graph has a smaller peak at around 14 inches, which means that this is another common value of the screen size, but less frequent than 16 inches. The density at this point is about 1.25.
 -	The graph has another peak around 17 inches, which means that this is another common value of the screen size. The density of this point is about 0.20
 
-
-
 ## Lessons Learned 
 
 -	A substantial proportion of laptops, totalling around 1000 units, do not feature touchscreen functionality, while a more modest count of 200 laptops incorporates this touch-enabled capability.
@@ -117,7 +115,7 @@ Provide instructions on how to run your project locally.
 
 ## Explore the Notebook
 
-https://www.kaggle.com/datasets/muhammadusman996/ozlaptop
+[Link to Kaggle Dataset](https://www.kaggle.com/datasets/muhammadusman996/ozlaptop)
 
 ## App Deployed on Streamlit
 
