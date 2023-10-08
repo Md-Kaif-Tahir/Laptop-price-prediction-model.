@@ -31,7 +31,7 @@ To find all the findings please read the report of this project.
 
 ## Business Problem
 
-Describe the business problem or objective that your project addresses.
+In the ever-evolving laptop market, businesses face the challenge of predicting the prices of laptops accurately. This is crucial for several reasons, including optimizing inventory management, setting competitive pricing strategies, and meeting customer expectations. An inaccurate prediction could lead to overstocking, tying up valuable resources, or underpricing, resulting in potential revenue loss. Understanding the factors influencing laptop prices, such as specifications, operating systems, and brand preferences, is essential for businesses to make informed decisions and stay competitive in the dynamic market. Developing a reliable prediction model for laptop prices is not just a statistical challenge; it directly impacts the bottom line and overall success of businesses operating in the laptop retail space.
 
 ## Data Source
 
@@ -39,15 +39,49 @@ Explain the source of your data and any preprocessing steps involved.
 
 ## Methods
 
-Describe the methods, algorithms, or models used in your project.
+- Data preprocessing
+- Exploratory data analysis
+- Feature engineering
+- Regression
+  
 
 ## Tech Stack
 
-List the technologies, libraries, and frameworks used in your project.
+- Python (preparation of the model)
+- Streamlit (interface for the model)
 
 ## Quick Glance at the Result
 
 Provide a brief summary or visualization of the project's results.
+
+![image](https://github.com/Md-Kaif-Tahir/Laptop-price-prediction-model./assets/110182266/93f4b5ee-1651-416c-9a44-b03ae0126810)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Lessons Learned and Recommendations
 
