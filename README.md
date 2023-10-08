@@ -18,7 +18,6 @@ To discover all the insights, please review the project report.
 ## Table of Contents
 
 - [Business Problem](#business-problem)
-- [Data Source](#data-source)
 - [Methods](#methods)
 - [Tech Stack](#tech-stack)
 - [Quick Glance at the Result](#quick-glance-at-the-result)
@@ -32,10 +31,6 @@ To discover all the insights, please review the project report.
 ## Business Problem
 
 In the ever-evolving laptop market, businesses face the challenge of predicting the prices of laptops accurately. This is crucial for several reasons, including optimizing inventory management, setting competitive pricing strategies, and meeting customer expectations. An inaccurate prediction could lead to overstocking, tying up valuable resources, or underpricing, resulting in potential revenue loss. Understanding the factors influencing laptop prices, such as specifications, operating systems, and brand preferences, is essential for businesses to make informed decisions and stay competitive in the dynamic market. Developing a reliable prediction model for laptop prices is not just a statistical challenge; it directly impacts the bottom line and overall success of businesses operating in the laptop retail space.
-
-## Data Source
-
-Explain the source of your data and any preprocessing steps involved.
 
 ## Methods
 
@@ -108,10 +103,7 @@ Observation
 
 - The dataset's small size, approximately 1000 rows, resulted in notable variance, particularly in CPU and GPU models
 - To mitigate this, grouping the rows by brand instead of model was implemented; however, a larger dataset would have allowed for a more granular analysis at the model level.
-
-## Run Locally
-
-Provide instructions on how to run your project locally.
+- Hyperparameter tuning
 
 ## Explore the Notebook
 
