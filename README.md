@@ -100,38 +100,16 @@ Observation
 
 
 
+## Lessons Learned 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Lessons Learned and Recommendations
-
-Share insights gained during the project and any recommendations for future work.
+-	A substantial proportion of laptops, totalling around 1000 units, do not feature touchscreen functionality, while a more modest count of 200 laptops incorporates this touch-enabled capability.
+-	Intel Core i7 is the most dominant, featured in about 500 laptops, closely followed by i5 with 400. Intel Core i3 has a similar count around 150, while AMD processors are less represented, with fewer than 100 laptops.
+-	AMD graphics cards stand out as the most budget-friendly option in the market. They are known for providing a good budget experience. However, it's worth mentioning that laptops with AMD processors are not as common; the market is largely dominated by Intel and Nvidia. AMD tends to have a stronger presence in the desktop market.
 
 ## Limitations and What Can Be Improved
 
-Discuss any limitations of your project and suggestions for improvement.
+- The dataset's small size, approximately 1000 rows, resulted in notable variance, particularly in CPU and GPU models
+- To mitigate this, grouping the rows by brand instead of model was implemented; however, a larger dataset would have allowed for a more granular analysis at the model level.
 
 ## Run Locally
 
