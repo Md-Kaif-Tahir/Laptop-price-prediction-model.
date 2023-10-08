@@ -121,7 +121,7 @@ Link to the Jupyter notebook or relevant code files for further exploration.
 
 ## App Deployed on Streamlit
 
-If applicable, share a link to the deployed Streamlit app.
+![ezgif com-video-to-gif](https://github.com/Md-Kaif-Tahir/Laptop-price-prediction-model./assets/110182266/4c6a3684-0434-458c-a530-778b41a1c780)
 
 ## Blog Post
 
