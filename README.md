@@ -54,7 +54,7 @@ Explain the source of your data and any preprocessing steps involved.
 
 Provide a brief summary or visualization of the project's results.
 
-1. Distribution of the price  
+### 1. Distribution of the price  
 ![image](https://github.com/Md-Kaif-Tahir/Laptop-price-prediction-model./assets/110182266/ad30139f-3128-47ea-b2d8-29cc7eda8387)
 
 Observation:
