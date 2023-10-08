@@ -9,7 +9,7 @@
 - The 16-inch screen size is the most popular, reflecting the common preference for a balanced and versatile display. Additionally, laptops with 8GB RAM are prevalent, offering a sweet spot that not only serves current needs but also allows for potential future upgrades.
 - Windows 10 stands out as the most widely used operating system in the laptop market. Apple notebooks predominantly run on macOS, and Linux, particularly favored in the cybersecurity field, holds a notable presence as well.
 
-To find all the findings please read the report of this project.
+To discover all the insights, please review the project report.
 
 ## Authors
 
@@ -54,7 +54,7 @@ Explain the source of your data and any preprocessing steps involved.
 
 Provide a brief summary or visualization of the project's results.
 
-![image](https://github.com/Md-Kaif-Tahir/Laptop-price-prediction-model./assets/110182266/93f4b5ee-1651-416c-9a44-b03ae0126810)
+![image](https://github.com/Md-Kaif-Tahir/Laptop-price-prediction-model./assets/110182266/ad30139f-3128-47ea-b2d8-29cc7eda8387)
 
 
 
