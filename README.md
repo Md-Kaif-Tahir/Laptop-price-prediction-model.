@@ -1,6 +1,7 @@
 # Project Title
 
-![Landscape Photo](https://plus.unsplash.com/premium_photo-1666107278222-862cd7890c5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG9uJTIwbGFwdG9wfGVufDB8fDB8fHww&w=1000&q=80)
+![premium_photo-1666107278222-862cd7890c5e](https://github.com/Md-Kaif-Tahir/Laptop-price-prediction-model./assets/110182266/4e318210-5ac8-4c33-a5fc-8e477ab17079)
+
 
 ## Key Findings
 
